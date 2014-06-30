@@ -20,3 +20,13 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+# Yii
+assets/
+protected/runtime/*.log
+protected/runtime/
+/nbproject/private/
+/nbproject/*
+protected/_gsdata_/*
+cron/autoMail/log/*
+etc/log/*
