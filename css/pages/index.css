@@ -1,0 +1,51 @@
+#index-list{
+	color: #ffffff;
+}
+#start{
+	width: 100%;
+	position: relative;
+	height: 900px;
+	background-color: #3598DB;
+	background-image: url(../../images/pages/ido.png);
+	background-repeat:no-repeat;
+	background-position:90% 101%;
+}
+#start .text-box{
+	position: absolute;
+	top: 20%;
+	left: 300px;
+}
+#hello-box{
+	position: absolute;
+	top: 30%;
+	right: 250px;	
+	width: 400px;
+	text-align: center;
+}
+.my-data{
+	font-size: 18px;
+	list-style: square;
+	margin-left: 15px;
+}
+.my-data li{
+	margin-left: 20px;
+}
+.function-AboutMe{
+	color: #89C3EA;
+}
+.big-title{
+	font-size: 60px;
+}
+.m-title{
+	font-size: 25px;
+}
+.big-text60{
+	font-size: 60px;
+}
+.m-text20{
+	font-size: 20px;
+}
+body {
+	margin: 0px;
+	font-family: "微軟正黑體";
+}
