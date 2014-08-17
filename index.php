@@ -10,3 +10,5 @@ if ($_SERVER['REMOTE_ADDR'] == '127.0.0.1') {
 
 require_once($yii);
 Yii::createWebApplication($config)->run();
+
+//xxxx
